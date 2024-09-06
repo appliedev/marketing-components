@@ -1,0 +1,10 @@
+.marcom-nav-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.marcom-nav-container p {
+  color: blue !important;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL25hdi5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0U7RUFDQTtFQUNBOztBQUVBO0VBQ0UiLCJmaWxlIjoibmF2Lm1pbi5jc3MiLCJzb3VyY2VSb290IjoiIn0= */
