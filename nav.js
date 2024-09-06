@@ -15,7 +15,7 @@ class MarComNav extends HTMLElement {
     // Load external CSS
     const linkElem = document.createElement("link");
     linkElem.setAttribute("rel", "stylesheet");
-    linkElem.setAttribute("href", "nav.css");
+    linkElem.setAttribute("href", "nav.min.css");
     shadow.appendChild(linkElem);
   }
 }
