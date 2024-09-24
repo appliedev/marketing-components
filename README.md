@@ -1,3 +1,3 @@
-# marketing-components
+# Marketing Components
 
-Web components for marketing site using Github pages.
+Web components for marketing site accessible via Github pages.
